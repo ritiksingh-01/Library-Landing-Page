@@ -189,13 +189,12 @@ nav {
     right: -100%;
     top: 70px;
     flex-direction: column;
-    background: rgba(74, 59, 51, 0.98);
+    background: transparent;
     width: 100%;
     text-align: center;
     padding: 2rem 0;
     gap: 1.5rem;
     transition: right 0.3s ease;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   }
 
   .nav-links.active {
