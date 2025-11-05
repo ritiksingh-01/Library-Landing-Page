@@ -91,8 +91,7 @@ nav {
 }
 .hero {
   min-height: 100vh;
-  background: url("https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=2070")
-    center/cover no-repeat;
+  background: url("bg-image.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
